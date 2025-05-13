@@ -1,0 +1,8 @@
+    .main{
+        display: flex;
+        justify-content: space-around;
+        /* grid-template-columns: repeat(3, 1fr); 3 charts per row */
+        gap: 20px; /* adjust spacing as needed */
+        padding: 20px;
+        flex-wrap: wrap;
+    }

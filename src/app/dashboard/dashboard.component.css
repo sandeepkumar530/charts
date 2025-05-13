@@ -1,0 +1,18 @@
+.main{
+    width: 100vw;
+    height: 100dvh;
+    display: flex;
+}
+.center{
+    text-align: center;
+}
+.left{
+    width: 20%;
+    height: 100%;
+    background-color: rgb(212, 212, 171);
+}
+.right{
+    width: 80%;
+    height: 100%;
+    background-color: rgb(235, 236, 229);
+}
